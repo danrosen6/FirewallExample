@@ -1,4 +1,5 @@
 Create a Virtual Environment:
+pip install virtualenv
 Navigate to your project directory and run:
 virtualenv venv
 
