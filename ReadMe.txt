@@ -1,5 +1,7 @@
 Install virtual environment
 pip install virtualenv
+installing on manjaro 
+sudo pacman -S python-virtualenv
 
 Create a Virtual Environment:
 Navigate to your project directory and run:
