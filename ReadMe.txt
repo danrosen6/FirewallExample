@@ -27,4 +27,7 @@ To install all dependencies
 pip install -r requirements.txt
 
 To execute with root privileges
-sudo python3 DosBlockerExample.py
+sudo python3 filename.py
+
+To find host private ip address through bash
+hostname --i  
